@@ -9,7 +9,7 @@ const BASE_ARCHIVE_ITEMS = [
     categories: ["object"],
     typeOfSite: "website",
     status: "active",
-    thumbnail: "/images/thumbnails/aoa_ramen-haus_1x.webp",
+    thumbnail: "/images/thumbnails/aoa_ramen-haus_1x.jpg",
   },
   {
     id: "identity-czech-graphic-design",
